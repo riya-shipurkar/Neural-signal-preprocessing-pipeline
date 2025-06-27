@@ -11,6 +11,13 @@ Steps of the project:
 7. [Modularity and Documentation](#step-7-modularity-and-documentation)
 
 Step 1: Understanding the basics of EEG
+Video recommendations (which helped me)
+A. Basics of EEG
+B. EEG Artifacts
+C. Basics of Filtering - 
+Frequency and temporal filtering
+Article on basics of filtering
+
 Step 2: Loading the data
 Step 3: Filtering
 Step 4: Artifact Extraction
